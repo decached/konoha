@@ -1,0 +1,43 @@
+<div class="row justify-content-center mt-3">
+
+    {{ with .Site.Params.Github }}
+    <div class="col-1 text-center">
+        <a target="_blank" href="https://github.com/{{ . }}">
+            <i class="fab fa-2x fa-github"></i>
+        </a>
+    </div>
+    {{ end }}
+
+    {{ with .Site.Params.Linkedin }}
+    <div class="col-1 text-center">
+        <a target="_blank" href="https://www.linkedin.com/in/{{ . }}">
+            <i class="fab fa-2x fa-linkedin"></i>
+        </a>
+    </div>
+    {{ end }}
+
+    {{ with .Site.Params.Twitter }}
+    <div class="col-1 text-center">
+        <a target="_blank" href="https://twitter.com/{{ . }}">
+            <i class="fab fa-2x fa-twitter"></i>
+        </a>
+    </div>
+    {{ end }}
+
+    {{ with .Site.Params.StackOverflow }}
+    <div class="col-1 text-center">
+        <a target="_blank" href="https://stackoverflow.com/{{ . }}">
+            <i class="fab fa-2x fa-stack-overflow"></i>
+        </a>
+    </div>
+    {{ end }}
+
+    {{ with .Site.Params.Email }}
+    <div class="col-1 text-center">
+        <a target="_blank" href="mailto:{{ . }}">
+            <i class="fas fa-2x fa-envelope"></i>
+        </a>
+    </div>
+    {{ end }}
+
+</div>
