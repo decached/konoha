@@ -1,0 +1,13 @@
+baseURL = "http://FIXME.com/"
+languageCode = "en-us"
+title = "Hidden Leaf Village"
+theme = "konoha"
+
+[params]
+    author = "Naruto Uzumaki"
+    image = "/img/naruto.png"
+    github = "FIXME"
+    linkedin = "FIXME"
+    twitter = "FIXME"
+    stackoverflow = "users/1111111/FIXME"
+    email = "FIXME@example.com"
