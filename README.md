@@ -21,7 +21,7 @@ Say Hi! [@decached]
 
 
 [Hugo]: https://gohugo.io/
-[issues]: https://github.com/decached/hugo-relax/issues
-[pulls]: https://github.com/decached/hugo-relax/pulls
+[issues]: https://github.com/decached/konoha/issues
+[pulls]: https://github.com/decached/konoha/pulls
 [MIT]: LICENSE.md
 [@decached]: https://twitter.com/decached
