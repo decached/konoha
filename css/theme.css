@@ -1,0 +1,38 @@
+/*
+ * theme.css
+ * Copyright (C) 2018 Akash Kothawale
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #555;
+    -webkit-text-size-adjust: 100%;
+}
+
+#topbar {
+    height: 5px;
+    background-color: green;
+}
+
+.big-thumbnail {
+    width: 260px;
+    height: 260px;
+}
+
+.thumbnail {
+    width: 100px;
+    height: 100px;
+}
+
+.footer {
+    font-size: 14px;
+}
+
+a:link, a:visited {
+    color: green;
+    text-decoration: underline;
+}

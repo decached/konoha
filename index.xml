@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I&#39;m Naruto Uzumaki on Hidden Leaf Village</title>
+    <link>http://FIXME.com/</link>
+    <description>Recent content in I&#39;m Naruto Uzumaki on Hidden Leaf Village</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 23:50:18 -0500</lastBuildDate>
+    
+	<atom:link href="http://FIXME.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://FIXME.com/about/</link>
+      <pubDate>Tue, 13 Feb 2018 00:01:09 -0500</pubDate>
+      
+      <guid>http://FIXME.com/about/</guid>
+      <description>Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, an adolescent ninja who searches for recognition from his peers and the village and also dreams of becoming the Hokage, the leader of his village. The story is in two parts, the first set in Naruto&amp;rsquo;s pre-teen years, and the second in his teens. The series is based on two one-shot manga by Kishimoto: Karakuri (1995), which earned Kishimoto an honorable mention in Shueisha&amp;rsquo;s monthly Hop Step Award the following year, and Naruto (1997).</description>
+    </item>
+    
+  </channel>
+</rss>
