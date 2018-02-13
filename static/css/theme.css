@@ -1,0 +1,12 @@
+/*
+ * theme.css
+ * Copyright (C) 2018 Akash Kothawale
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+#topbar {
+    height: 5px;
+	background-color: green;
+}
+
