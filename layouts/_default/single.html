@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+<div class="row justify-content-center">
+    <img src="{{ .Site.Params.Image }}" class="img-thumbnail rounded-circle thumbnail">
+</div>
+<div class="row justify-content-center mt-2">
+    <h1>{{ .Title }}</h1>
+</div>
+<hr>
+<div class="row text-justify">
+    <div class="col-1"></div>
+    <div class="col col-centered">
+        {{ .Content }}
+    </div>
+    <div class="col-1"></div>
+</div>
+{{ partial "footer.html" . }}
